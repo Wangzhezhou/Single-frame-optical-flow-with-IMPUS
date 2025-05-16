@@ -1,0 +1,10 @@
+# following https://github.com/yuanzhi-zhu/prolific_dreamer2d/blob/main/requirements.txt
+# diffusers@git+https://github.com/huggingface/diffusers@1994dbcb5e62bd8d0c60e5d5d6bf4b580653c74c
+huggingface-hub==0.15.1
+matplotlib==3.7.1
+numpy==1.24.3
+tokenizers==0.13.3
+tqdm==4.65.0
+transformers==4.29.2
+scipy==1.10.1
+lpips==0.1.4
